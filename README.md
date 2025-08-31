@@ -59,5 +59,9 @@ Entradas:
 1.Número de elementos a serem inseridos em P1.
 2.Elementos de P1 em ordem de inserção
 Saídas:
+Elementos da pilha P1, após inversão
+
+QUESTAO 08:
+incompleta!
 
 1.Elementos da pilha P1, após inversão
