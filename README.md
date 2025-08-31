@@ -64,4 +64,33 @@ Elementos da pilha P1, após inversão
 QUESTAO 08:
 incompleta!
 
-1.Elementos da pilha P1, após inversão
+QUESTOES DE FILAS:
+
+QUESTAO 01:
+Entradas:
+
+1.Número de elementos a serem inseridos em F1.
+2.Elementos de F1 em ordem de inserção (inserção no fim da fila).
+3.Número de elementos a serem inseridos em F2.
+4.Elementos de F2 em ordem de inserção (inserção no fim da fila).
+Saídas:
+
+1.Elementos restantes em F1 após a remoção.
+
+
+QUESTAO 02:
+Faça a implementação de uma fila circular fazendo com que a inserção (método Enfileirar) sempre use o início do vetor (posição zero) quando a fila estiver vazia.
+
+Entradas:
+
+1.Inicialmente, o programa lê um número inteiro que é capacidade da fila a ser criada.
+
+2.Depois, o programa lê códigos de comandos a executar. Sempre um caractere identificando o comando seguido dos parâmetros necessários para executar o comando, se houverem. Os códigos de comandos são:
+
+t - para terminar a execução do programa
+e - para enfileirar um valor - seguido do valor (número inteiro)
+d - para desenfileirar um valor
+i - para escrever as informações da fila (atributos e conteúdo)
+Saídas:
+
+1.Os comandos d e i são os únicos que produzem saída de dados.
